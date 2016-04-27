@@ -41,15 +41,15 @@
 </head>
 <body style="background-image:url(black_lines.jpg)" alink="black" vlink="black">
 <div align="center">
-</br>
+<br>
 <hr>
-<h1><font color="red"><u>Planlos - Clash of Clans Clan</u></font></h1>
-</br>
+<font color="red"><h1><u>Planlos - Clash of Clans Clan</u></h1></font>
+<br>
 <ul id="navigation">
 		<li><a href="http://localhost/index.php">Startseite</a></li>
 		<li><a href="http://localhost/kontakt.php">Kontakt</a></li>
 </ul>
-</br>
+<br>
 <hr>
 <font color="red"><h1>Kontaktinformationen</h1></font>
 <hr>

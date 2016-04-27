@@ -41,24 +41,25 @@
 </head>
 <body style="background-image:url(black_lines.jpg)" alink="black" vlink="black">
 <div align="center">
-</br>
-<h1><font color="red"><u>Planlos - Clash of Clans Clan</u></font></h1>
+<br>
+<font color="red"><h1><u>Planlos - Clash of Clans Clan</u></h1></font>
 <hr>
-</br>
+<br>
 <ul id="navigation">
-		<li><a href="http://localhost/index.php">Startseite</a></li>
-		<li><a href="http://localhost/kontakt.php">Kontakt</a></li>
+	<li><a href="http://localhost/index.php">Startseite</a></li>
+	<li><a href="http://localhost/kontakt.php">Kontakt</a></li>
 </ul>
-</br>
+<br>
 <hr>
 <br>
 <iframe src="https://clashofclans.com/clans/clan?clanTag=LV20J9CR" width="90%" height="600" name="ClanInfoCoC" frameborder="0" scrolling="yes">
 	<p>Ihr Browser kann leider keine eingebetteten Frames anzeigen</p>
 </iframe>
 <br>
-</br>
+<br>
 <hr>
-</br><font size="10" color="red">Infos &Uuml;ber den Clan</font>
+<br>
+<font size="10" color="red">Infos &Uuml;ber den Clan</font>
 <br>
 <ul id="infoclan"><font color="green" size="5">
 	<li><b><u>Name:</u></b> Planlos</li>
@@ -72,8 +73,8 @@
 	<li><b><u>Art:</u></b> Nur auf Einladung</li>
 	<li><b><u>Ben&ouml;tigte Troph&auml;en:</u></b> 1200</li>
 	<li><b><u>Kriegsh&auml;ufigkeit:</u></b> Zweimal pro Woche</li>
-	<li><b><u>Clanregion:</u></b> Germany/Deutsch</li>
-</font></ul>
+	<li><b><u>Clanregion:</u></b> Germany/Deutsch</li></font>
+</ul>
 <br>
 <hr>
 <br>
@@ -83,13 +84,14 @@
 	<li>respektvoller und freundlicher Umgang</li>
 	<li>aktiv sein</li>
 </ol></font>
-</br>
+<br>
 <hr>
 <br>
-<font color="red" size="10">Anf&uuml;hrer und VizeAnf&uuml;hrer</font></br>
+<font color="red" size="10">Anf&uuml;hrer und VizeAnf&uuml;hrer</font><br>
 <font color="green" size="5">
 <ul id="verwalter">
-	<li><b><font color="red">Anf&uuml;hrer:</font> </b> Alexlovenina</li>
+    <font color="red"><b>Anf&uuml;hrer:</b></font>
+	<li>Alexlovenina</li>
 	<font color="red"><b>Vizeanf&uuml;hrer</b></font>
 	<li>ZzeusS</li>
 	<li>Ryg</li>
@@ -102,31 +104,40 @@
 	<li>Mr.Micha</li>
 </ul>
 </font>
-</br>
+<br>
 <hr>
 <br>
 <font size="15" color="red">Aufstellungen</font>
 <br><font color="green" size="5" >
-<br><u>Aufstellung von Alexlovenina</u></br>
-<img src="./aufstellungen/alex.png" /><br></br>
+<br><u>Aufstellung von Alexlovenina</u><br>
+<img src="./aufstellungen/alex.png" /><br><br>
+
 <br><u>Aufstellung von ZzeusS</u></br>
-<img src="./aufstellungen/zeus.png" /><br></br>
+<img src="./aufstellungen/zeus.png" /><br><br>
+
 <br><u>Aufstellung von Ryg</u></br>
-<img src="./aufstellungen/ryg.png" /><br></br>
-<br><u>Aufstellung von florian628</u></br>
-<img src="./aufstellungen/florian.png" /><br></br>
+<img src="./aufstellungen/ryg.png" /><br><br>
+
+<br><u>Aufstellung von florian628</u><br>
+<img src="./aufstellungen/florian.png" /><br><br>
+
 <br><u>Aufstellung von STEVOK27</u></br>
-<img src="./aufstellungen/stevok.png" /><br></br>
-<br><u>Aufstellung von << RAINBOW-SIX >></u></br>
-<img src="./aufstellungen/rainbow.png" /><br></br>
-<br><u>Aufstellung von VFB M&uuml;mmel II</u></br>
-<img src="./aufstellungen/vfb.png" /><br></br>
+<img src="./aufstellungen/stevok.png" /><br><br>
+
+<br><u>Aufstellung von << RAINBOW-SIX >></u><br>
+<img src="./aufstellungen/rainbow.png" /><br><br>
+
+<br><u>Aufstellung von VFB M&uuml;mmel II</u><br>
+<img src="./aufstellungen/vfb.png" /><br><br>
+
 <br><u>Aufstellung von tati</u></br>
-<img src="./aufstellungen/tati.png" /><br></br>
+<img src="./aufstellungen/tati.png" /><br><br>
+
 <br><u>Aufstellung von Mr.Micha</u></br>
-<img src="./aufstellungen/micha.png" /><br></br>
+<img src="./aufstellungen/micha.png" /><br><br>
 <br>
 <hr>
-</font></div>
+</font>
+</div>
 </body>
 </html>
